@@ -20,7 +20,7 @@ public:
 
 	void Carinfo()
 	{
-		ParkedCar Car;
+		ParkingTicket Car;
 		Car.test();	
 
 		ParkingMeter CarTwo;
@@ -31,7 +31,7 @@ public:
 	}
 
 private:
-	class ParkedCar
+	class ParkingTicket
 	{
 	public:
 
