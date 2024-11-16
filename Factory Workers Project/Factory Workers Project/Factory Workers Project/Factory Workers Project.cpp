@@ -5,7 +5,7 @@
 
 int main()
 {
-    
+    g
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
