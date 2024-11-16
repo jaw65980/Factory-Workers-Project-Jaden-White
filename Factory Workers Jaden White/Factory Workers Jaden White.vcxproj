@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{49288a82-5f95-4c0a-be84-3e9b14bb47fc}</ProjectGuid>
-    <RootNamespace>FactoryWorkersProject</RootNamespace>
+    <ProjectGuid>{8ee0c553-c16a-460b-910e-03363717e61f}</ProjectGuid>
+    <RootNamespace>FactoryWorkersJadenWhite</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Factory Workers Project.cpp" />
+    <ClCompile Include="Factory Workers Jaden White.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
